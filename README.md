@@ -3,29 +3,26 @@
 
 
 ## 要件
-予約・キャンセル・変更が出来る
-メール通知機能
-複数人対応
-印刷機能（日別・人別）
-Google Calendarと連動
+*予約・キャンセル・変更が出来る
+*メール通知機能
+*複数人対応
+*印刷機能（日別・人別）
+*Google Calendarと連動
 
 
 ## 実装
-・アカウント管理→データベース?
-　　　教師（スタジオ）アカウント
+*アカウント管理→データベース?
+　　　-教師（スタジオ）アカウント
         {
           name,
           availableDate[],
           reservedDate[],
-
         }
 
-　　　生徒アカウント
+　　　-生徒アカウント
         {
           name,
-          
         }
 
-・Google Calendar連動
+*Google Calendar連動
 　　　API Fetch & POST?
-・
