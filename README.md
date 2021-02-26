@@ -1,5 +1,5 @@
 # reservationSystem
-社交ダンス教室向けの予約管理システムです。
+社交ダンス教室向けの予約管理システムです。  
 This is a reservation system for ballroom dancers &amp; studios. FREE &amp; OSS.
 
 
@@ -25,5 +25,5 @@ This is a reservation system for ballroom dancers &amp; studios. FREE &amp; OSS.
     name,
   }
 
-* Google Calendar連動
+* Google Calendar連動  
 　　　API Fetch & POST?
