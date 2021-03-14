@@ -15,6 +15,7 @@ This is a reservation system for ballroom dancers &amp; studios. FREE &amp; OSS.
 * アカウント管理→データベース?
 - 教師（スタジオ）アカウント
   {
+    id,
     name,
     availableDate[],
     reservedDate[],
@@ -22,7 +23,9 @@ This is a reservation system for ballroom dancers &amp; studios. FREE &amp; OSS.
 
 - 生徒アカウント
   {
+    id,
     name,
+    favorites[],
   }
 
 * Google Calendar連動  
